@@ -1,2 +1,5 @@
-# Unity-Habrador
-Habrador geometry library packaging
+# FunkySheep Unity Habrador Library
+
+## Description
+
+Package of the Habrador Library for Unity
