@@ -1,7 +1,7 @@
 {
 	"name": "net.funkysheep.unity.habrador",
 	"displayName": "FunkySheep Unity Habrador Library",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"unity": "2020.3",
 	"description": "FunkySheep framework Unity Habrador library",
 	"keywords": ["library", "utilities", "meshes", "triangulation"],
